@@ -1,6 +1,8 @@
 ## C++ / Programming
 https://grahambest.xyz/a-dissection-of-c-casts/
 
+https://grahambest.xyz/an-in-depth-review-for-deleaker/
+
 ## Reverse Engineering
 https://grahambest.xyz/parkour-crackme-write-up/
 
